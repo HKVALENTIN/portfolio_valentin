@@ -186,7 +186,7 @@ section {
     flex-shrink: 0;
 }
 
-.photo-placeholder {
+.photo-placeholder img {
     width: 280px;
     height: 280px;
     border-radius: 50%;
@@ -204,11 +204,6 @@ section {
     overflow: hidden;
 }
 
-.photo-placeholder::before {
-    content: '📷';
-    font-size: 3rem;
-    margin-bottom: 10px;
-}
 
 .photo-placeholder p {
     color: #6c63ff;
