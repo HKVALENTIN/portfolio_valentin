@@ -677,11 +677,6 @@ footer span {
     nav ul {
         display: none;
     }
-    .photo-placeholder img {
-        width: 150px;
-        height: 150px;
-        display: unset;
-    }
 
     .hero-container {
         flex-direction: column-reverse;
@@ -706,7 +701,7 @@ footer span {
         grid-template-columns: 1fr;
     }
 
-    .photo-placeholder {
+    .photo-placeholder img {
         width: 200px;
         height: 200px;
     }
