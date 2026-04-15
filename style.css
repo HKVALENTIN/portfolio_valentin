@@ -676,6 +676,7 @@ footer span {
 @media (max-width: 768px) {
     nav ul {
         display: none;
+    }
     .photo-placeholder img {
         width: 150px;
         height: 150px;
